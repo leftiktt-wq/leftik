@@ -1,0 +1,2 @@
+// MinGW-only RT_MANIFEST. MSVC embeds LEFTIK.manifest through /MANIFEST:EMBED.
+1 24 "LEFTIK.manifest"

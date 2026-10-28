@@ -1,0 +1,22 @@
+build-*/
+dist/
+installer/Output/
+*.exe
+*.dll
+*.obj
+*.o
+*.log
+*.zip
+*.bak
+.vs/
+.vscode/
+*.user
+*.pfx
+*.cer
+*.pvk
+SIGNING.txt
+test.cpp
+test_monolith.cpp.bak
+
+# Личные материалы: не публиковать
+screenshots/
